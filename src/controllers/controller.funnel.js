@@ -30,9 +30,9 @@ module.exports = function(Chart) {
 	var helpers = Chart.helpers;
 
 	Chart.defaults.funnel = {
-		hover: {
-			mode: "label"
-		},
+    hover: {
+      mode: 'index'
+    },
 		sort: 'asc',// sort options: 'asc', 'desc'
 		gap: 2,
 		bottomWidth: null,// the bottom width of funnel

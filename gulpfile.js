@@ -20,8 +20,9 @@ var header = "/*!\n" +
     " * Version: {{ version }}\n" +
     " *\n" +
     " * Copyright 2016 Jone Casaper\n" +
+    " * Copyright 2019 Steve Yardumian\n" +
     " * Released under the MIT license\n" +
-    " * https://github.com/xch89820/Chart.Funnel.js/blob/master/LICENSE.md\n" +
+    " * https://github.com/CopperHill-Consulting/Chart.Funnel.js/blob/master/LICENSE.md\n" +
     " */\n";
 
 gulp.task('js',function(){
