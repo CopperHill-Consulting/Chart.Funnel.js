@@ -1,13 +1,13 @@
 {
   "name": "funnel-chart-js",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "The funnel plugin for Chart.js",
   "main": "dist/chart.funnel.js",
   "directories": {
     "example": "example"
   },
   "dependencies": {
-    "chart.js": ">2.8.0"
+    "chart.js": "^2.8.0"
   },
   "devDependencies": {
     "browserify": "^13.0.1",
