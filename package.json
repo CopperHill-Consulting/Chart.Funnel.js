@@ -1,5 +1,5 @@
 {
-  "name": "chartjs-funnel",
+  "name": "chart-js-funnel",
   "version": "1.1.0",
   "description": "The funnel plugin for Chart.js",
   "main": "dist/chart.funnel.js",
@@ -40,7 +40,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/xch89820/Chart.Funnel.js"
+    "url": "https://github.com/CopperHill-Consulting/Chart.Funnel.js"
   },
   "keywords": [
     "Chart.js",
@@ -48,10 +48,10 @@
     "funnel",
     "plugin"
   ],
-  "author": "Jone Casper",
+  "author": "Steve Yardumian",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xch89820/Chart.Funnel.js/issues"
+    "url": "https://github.com/CopperHill-Consulting/Chart.Funnel.js/issues"
   },
-  "homepage": "https://github.com/xch89820/Chart.Funnel.js"
+  "homepage": "https://github.com/CopperHill-Consulting/Chart.Funnel.js"
 }
